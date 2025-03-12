@@ -14,7 +14,6 @@ I am a security professional at a large corporation working as part of the resea
 <h1>Program walk-through:</h1>
 
 
-
 <h2 align="center">Check file and directory details: </h2>
   
 The /home/researcher2/projects directory must be checked to examine the permissions authorized for the directory and files it contains. 
